@@ -128,3 +128,7 @@ input{
   color: white;
   font-style: italic;
 }
+#tyVideo{
+  position: absolute;
+  top: 100px;
+}

@@ -65,4 +65,16 @@ body{
     padding-top: 5px;
     align-content: center;
   }
-  
+  #video{
+    position: absolute;
+    top: 200px;
+    left: 90px;
+  }
+  .group-details1{
+   position: absolute;
+   top: 270px;
+   left: 1000px;
+   }
+   .group-details{
+    width: 800px;
+   }
